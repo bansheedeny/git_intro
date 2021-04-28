@@ -1,1 +1,3 @@
-zwj is handsome
+apple
+orange
+zwj is handsome and clever
